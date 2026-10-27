@@ -148,5 +148,4 @@ Every time you are asked to make a change follow:
 ## Commit and Push
 
 * Commit often, in small ordered commits.
-* Each commit says why, what changed, and how you proved it.
-* Push to the main line at the end.
+* Each commit briefly says why, what changed, and how you proved it.
